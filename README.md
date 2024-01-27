@@ -9,4 +9,4 @@
 > * 4º: Place the mouse near the corners of the screen to avoid any problems;
 > * 5º: Wait until script finds the correct pin.
 
-**NOTE:** Tested numbers will be shown in console log, if you want to pause and continue later, write the last number tested in notepad or something like that.
+- **NOTE:** Tested numbers will be shown in console log, if you want to pause and continue later, write the last number tested in notepad or something like that.
