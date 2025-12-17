@@ -1,6 +1,6 @@
 # Steam-Family-Pin-Unlocker
 - That project helps you to find your account Family Pin if you couldn't recover it for some reason in Steam Support.
-- This basically tries 9999 pins, finding the right one to unlock your Steam family pin.
+- This basically tries 10000 pins, finding the right one to unlock your Steam family pin.
 
 **HOW TO USE IT:**
 > * 1º: Unzip the folder and paste it to any place you want;
